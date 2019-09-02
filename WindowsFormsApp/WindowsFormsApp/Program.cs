@@ -20,6 +20,9 @@ namespace WindowsFormsApp
         }
     }
 
+    /// <summary>
+    /// 
+    /// </summary>
     static class db_puth
     {
         public static string Value { get; set; }
